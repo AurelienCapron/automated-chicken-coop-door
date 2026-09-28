@@ -19,7 +19,7 @@ Système embarqué autonome assurant l'ouverture et la fermeture automatiques d'
 
 ## Aperçu et démonstration vidéo
 
-* **[Voir la vidéo de démonstration (ouverture et fermeture du pont-levis)](assets/coop_door_demo.mov)**
+* **[Voir la vidéo de démonstration (ouverture et fermeture du pont-levis)](assets/coop_door_demo.mp4)**
 
 | Vue extérieure du poulailler et du pont-levis | Mécanisme d'enroulement intérieur |
 | :---: | :---: |
@@ -37,7 +37,7 @@ automated-chicken-coop-door/
 ├── assets/
 │   ├── chicken_coop_overview.jpg     # Vue d'ensemble du poulailler et du pont-levis
 │   ├── control_box_front.jpg         # Façade du boîtier avec boutons de commande
-│   ├── coop_door_demo.mov            # Vidéo de démonstration (ouverture/fermeture)
+│   ├── coop_door_demo.mp4            # Vidéo de démonstration (ouverture/fermeture)
 │   ├── relay_board_pcb.jpg           # Carte électronique ATmega328P et relais 5V
 │   ├── system_architecture.svg       # Schéma synoptique de l'architecture matérielle
 │   └── winch_mechanism_inside.jpg    # Arbre de transmission et câbles de levage
